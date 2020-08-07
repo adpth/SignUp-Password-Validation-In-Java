@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SignUp App</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_must_contain">Password must contain</string>
+    <string name="uppercase_letter">UpperCase Letter</string>
+    <string name="special_character">Special Character</string>
+    <string name="digits">Digits</string>
+    <string name="atleast_8_characters">Atleast 8 Characters</string>
+    <string name="signup">SignUp</string>
+    <string name="register">Register</string>
+    <string name="check">check</string>
+    <string name="camera">camera</string>
+</resources>
