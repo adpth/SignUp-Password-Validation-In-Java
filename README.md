@@ -13,5 +13,5 @@ This UI Code will check wether password contains
  - Alteast 8 Characters
  
  # Kotlin UI code 
- If you want this code in kotlin version check out the below link by Code.fun  
+ If you want this code in **Kotlin version** check out the below link by Code.fun  
  https://github.com/agamkoradiya/SignUp-Password-Validation-In-Kotlin
